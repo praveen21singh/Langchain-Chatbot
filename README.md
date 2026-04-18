@@ -28,7 +28,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/Chatbot-Using-Langchain.git
+     git clone https://github.com/praveen21singh/Chatbot-Using-Langchain.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
+Praveen Kumar Singh - [@praveensingh2025@hotmail.com](praveensingh2025@hotmail.com)
 
 
 ## Acknowledgements
